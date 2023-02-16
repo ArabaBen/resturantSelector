@@ -48,5 +48,5 @@ else:
     print("Great news" + orderName + "!!" + " The following restaurant(s) can satisfy everyone's restrictions:")
     for restaurant in goodRestaurants:
         print("- " + restaurant)
-        
+         
         
